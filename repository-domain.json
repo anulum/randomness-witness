@@ -3,12 +3,13 @@
   "claims": [],
   "domain_runtime_dependencies": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
   "planned_owned_schema_ids": [
     "randomness_witness.certificate.v1",
     "randomness_witness.qpu_source.v1"
   ],
+  "public_remote": "https://github.com/anulum/randomness-witness",
   "qualified_owned_schema_ids": [],
   "repository_name": "RANDOMNESS-WITNESS",
   "tooling_python": {

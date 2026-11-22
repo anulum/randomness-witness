@@ -12,6 +12,8 @@ RANDOMNESS-WITNESS — repository foundation
 
 This repository is preparing a tool for source-specific capture, processing and complete statistical evidence about bitstreams. Its current executable surface is repository validation tooling. It has no installed source-qualification package, public acquisition runner or qualified source certificate.
 
+Randomness Witness is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 The intended workflow preserves source and clock identity, complete stream maps, distinct raw and processed populations, every failure or unknown and separate current eligibility. Source suitability is scoped to a declared use; it does not prove an arithmetic graph's assumptions or universal randomness.
 
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).

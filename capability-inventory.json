@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "RANDOMNESS-WITNESS",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "64f808e2ca368f2985cc46aa5cf0c2526caf6f95fcbd3dfed00214a21f5c08d1"
+    "sha256": "bf724fc6014358f49960e20cd66b339097f23fbaa6cb5f4c0553655fff79168a"
   }
 }

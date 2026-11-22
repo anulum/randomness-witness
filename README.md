@@ -12,6 +12,8 @@ RANDOMNESS-WITNESS — repository foundation
 
 Randomness Witness is being built to preserve the exact source, capture, processing and statistical scope of bitstreams used in stochastic computing. This checkout contains repository validation tooling and documentation. Full foundation qualification is in progress. There is no installed source-qualification package, acquisition runner, public certification command or qualified source certificate.
 
+Randomness Witness is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 ## Boundary
 
 This project owns planned source adapters, capture consumption, raw and processed statistical batteries and source/rate/intended-use certificates. SC-NeuroCore retains generator implementations and their counterparts. Loop Timing Witness owns fabric capture and timebase. Evidence Manifest Toolkit supplies shared evidence operations; SC Stream Prover independently checks arithmetic assumptions.
